@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://lautaroMuino03.github.io/react-portfolio",
+  "homepage": "https://LautaroMuino03.github.io/react-portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
