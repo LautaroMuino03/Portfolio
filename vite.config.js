@@ -3,14 +3,14 @@ import react from '@vitejs/plugin-react';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/react-portfolio/', // Mantén el nombre del repositorio
+  base: '/react-portfolio/', // Nombre de tu repositorio
   plugins: [react()],
   build: {
     rollupOptions: {
       output: {
-        assetFileNames: './assets/[name]-[hash][extname]',
-        chunkFileNames: './assets/[name]-[hash].js',
-        entryFileNames: './assets/[name]-[hash].js',
+        assetFileNames: 'assets/[name]-[hash][extname]', // Cambié aquí
+        chunkFileNames: 'assets/[name]-[hash].js',       // Cambié aquí también
+        entryFileNames: 'assets/[name]-[hash].js',       // Y aquí
       },
     },
   },
