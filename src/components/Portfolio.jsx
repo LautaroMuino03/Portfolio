@@ -8,7 +8,7 @@ import Reveal from './Reveal';
 const projects = [
   {
     img: carreraDT,
-    title: "Project #1",
+    title: "Project 1",
     description: "Front-end application, made only with HTML, CSS and JavaScript.",
     links: {
       site: "https://lautaromuino03.github.io/proyecto-UTN/",
@@ -17,7 +17,7 @@ const projects = [
   },
   {
     img: fitclub,
-    title: "Project #2",
+    title: "Project 2",
     description: "I developed a gym application purely using React.Js, making it fully responsive.",
     links: {
       site: "https://fit-club-one.vercel.app/",
@@ -26,7 +26,7 @@ const projects = [
   },
   {
     img: tecnoHogar,
-    title: "Project #3",
+    title: "Project 3",
     description: "I developed a full-stack E-commerce application using React.Js and JavaScript for the front-end, and for the back-end, I used MongoDB, Express, bcrypt, and other dependencies.",
     links: {
       video: "https://www.youtube.com/watch?v=t595JRThhIU",
@@ -35,7 +35,7 @@ const projects = [
   },
   {
     img: kinesiologia,
-    title: "Project #4",
+    title: "Project 4",
     description: "Front-page for a client: gastroenterology center, that allows patients to watch information about the center and the services they offer.",
     links: {
       site: "https://sagradocorazongastroenterologia.vercel.app/",
