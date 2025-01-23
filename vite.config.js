@@ -8,9 +8,9 @@ export default defineConfig({
   build: {
     rollupOptions: {
       output: {
-        assetFileNames: 'assets/[name]-[hash][extname]', // Cambié aquí
-        chunkFileNames: 'assets/[name]-[hash].js',       // Cambié aquí también
-        entryFileNames: 'assets/[name]-[hash].js',       // Y aquí
+        assetFileNames: 'assets/[name]-[hash][extname]', // Rutas relativas sin el prefijo
+        chunkFileNames: 'assets/[name]-[hash].js',       // Rutas relativas sin el prefijo
+        entryFileNames: 'assets/[name]-[hash].js',       // Rutas relativas sin el prefijo
       },
     },
   },
