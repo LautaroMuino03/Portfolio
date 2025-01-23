@@ -36,7 +36,7 @@ return (
             <div className='max-w-[1300px] mx-auto  flex justify-between text-gray-200
             text-xl items-center px-12 h-20'>
 
-                    <a href="#">Lautaro Muiño</a>
+                    <a href="#">Lautaro Muiño.</a>
 
                     <ul className='hidden md:flex gap-12 z-10 cursor-pointer'>
                             <li><Link to="contact" smooth={true} offset={50} duration={500}>Contact</Link></li>
