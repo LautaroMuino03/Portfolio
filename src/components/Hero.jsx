@@ -48,7 +48,7 @@ return (
                 transition={{ duration: 1, delay: 1 }}
                 className="text-gray-300 max-w-[300px] md:max-w-[500px] md:text-2xl text-lg mb-6"
                 >
-                    I am a passionate fullstack developer with more 2 years of experience.
+                    I am a passionate fullstack developer with 1 years of experience.
                 </motion.p>
 
                 <motion.div
