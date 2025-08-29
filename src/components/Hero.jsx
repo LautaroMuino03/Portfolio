@@ -62,7 +62,7 @@ return (
     whileHover={{ scale: 1.05, boxShadow: "0px 0px 8px rgba(0, 0, 0, 0.3)" }}
     className="z-10 cursor-pointer font-bold text-gray-200 md:w-auto p-4 border
              border-purple-400 rounded-xl"
-    href="https://lautaromuino03.github.io/Portfolio/CurriculumVitae-English.pdf"
+    href="https://lautaromuino03.github.io/Portfolio/LautaroMuiñoEnglishCV.pdf"
     target="_blank"
     rel="noopener noreferrer"
 >
